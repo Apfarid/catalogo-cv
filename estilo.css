@@ -10,7 +10,31 @@
     background:#da5521 ;
 }
 nav{
-    background:#black;
+    background:black;
     padding: 12px;
     border-radius: 4px;
+}
+
+@font-face{
+    font-family: blackground;
+    src: url(Black-Ground.otf);
+}
+
+h4{
+    font-family: blackground;
+    font-size: larger;
+}
+
+#videojuegos{
+    font-family: blackground;
+}
+
+#ofertas{
+    font-family: blackground;
+}
+
+h1{
+    color: red;
+    font-family: blackground;
+    font-size: 50px;
 }
